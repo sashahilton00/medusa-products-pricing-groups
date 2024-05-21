@@ -1,6 +1,6 @@
 {
   "name": "medusa-products-pricing-groups",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Create pricing groups to enable volume price breaks across multiple products.",
   "author": "Sasha Hilton",
   "license": "MIT",
