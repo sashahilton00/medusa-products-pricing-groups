@@ -36,7 +36,7 @@
     "body-parser": "^1.19.0",
     "cmdk": "^1.0.0",
     "cors": "^2.8.5",
-    "dotenv": "16.3.1",
+    "dotenv": "16.4.5",
     "express": "^4.17.2",
     "medusa-interfaces": "latest",
     "medusa-react": "9.0.17",
