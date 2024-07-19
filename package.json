@@ -32,14 +32,14 @@
   },
   "dependencies": {
     "@medusajs/admin": "^7.1.14",
-    "@medusajs/ui": "3.0.0",
+    "@medusajs/ui": "3.0.1",
     "body-parser": "^1.19.0",
     "cmdk": "^1.0.0",
     "cors": "^2.8.5",
     "dotenv": "16.3.1",
     "express": "^4.17.2",
     "medusa-interfaces": "latest",
-    "medusa-react": "9.0.17",
+    "medusa-react": "9.0.18",
     "prism-react-renderer": "^2.0.4",
     "typeorm": "^0.3.16"
   },
